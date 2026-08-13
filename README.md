@@ -26,11 +26,11 @@ I am learning NumPy through:
 
 | # | Topic | Status |
 |---|---|---|
-| 01 | Introduction | 🔄 Learning |
-| 02 | Arrays | 🔄 Learning |
-| 03 | Array Attributes | 🔄 Learning |
-| 04 | Indexing & Slicing | 🔄 Learning |
-| 05 | Array Operations | 🔄 Learning |
+| 01 | Introduction |✅ Completed|
+| 02 | Arrays | ✅ Completed|
+| 03 | Array Attributes | ✅ Completed |
+| 04 | Indexing & Slicing | ✅ Completed |
+| 05 | Array Operations | ✅ Completed |
 | 06 | Broadcasting | 🔄 Learning |
 | 07 | Reshaping | 🔄 Learning |
 | 08 | Mathematical Functions | 🔄 Learning |
@@ -93,4 +93,4 @@ My goal is to build a strong foundation in NumPy
 
 ````text
 NumPy
-████████░░░░░░░░░░ 40%
+██████░░░░░░░░░░ 40%
