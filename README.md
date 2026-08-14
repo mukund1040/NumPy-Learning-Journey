@@ -93,4 +93,4 @@ My goal is to build a strong foundation in NumPy
 
 ````text
 NumPy
-██████░░░░░░░░░░ 40%
+████████░░░░░░░ 60%
