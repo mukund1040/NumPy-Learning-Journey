@@ -31,9 +31,9 @@ I am learning NumPy through:
 | 03 | Array Attributes | ✅ Completed |
 | 04 | Indexing & Slicing | ✅ Completed |
 | 05 | Array Operations | ✅ Completed |
-| 06 | Broadcasting | 🔄 Learning |
-| 07 | Reshaping | 🔄 Learning |
-| 08 | Mathematical Functions | 🔄 Learning |
+| 06 | Broadcasting | ✅ Completed |
+| 07 | Reshaping | ✅ Completed  |
+| 08 | Mathematical Functions |✅ Completed |
 | 09 | Statistics | 🔄 Learning |
 | 10 | Random Numbers | 🔄 Learning |
 | 11 | Joining & Splitting | 🔄 Learning |
