@@ -34,7 +34,7 @@ I am learning NumPy through:
 | 06 | Broadcasting | ✅ Completed |
 | 07 | Reshaping | ✅ Completed  |
 | 08 | Mathematical Functions |✅ Completed |
-| 09 | Statistics | 🔄 Learning |
+| 09 | Statistics | ✅ Completed |
 | 10 | Random Numbers | 🔄 Learning |
 | 11 | Joining & Splitting | 🔄 Learning |
 | 12 | Linear Algebra | 🔄 Learning |
